@@ -1,0 +1,6 @@
+{
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.trailingComma": "all",
+  "eslint.codeActionsOnSave.mode": "all"
+}
